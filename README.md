@@ -64,12 +64,9 @@ python main.py
 
 ## Demo features
 `packet_size`, `failed_logins`, `request_frequency`, `connection_duration`, and `unique_ports`. Label `0` means Normal; `1` means Suspicious. These are invented features for learning, not a real public dataset.
+<img width="921" height="667" alt="Screenshot 2026-10-14 191339" src="https://github.com/user-attachments/assets/51b6f46b-6899-4b15-9398-ce9c6dcb4f35" />
+<img width="897" height="662" alt="Screenshot 2026-10-14 191317" src="https://github.com/user-attachments/assets/70e23bc9-1fcf-4691-9f30-76e2ca990e92" />
 
-## Portfolio proof
-After running, capture `screenshots/terminal-results.png`, `screenshots/confusion-matrix.png`, `screenshots/event-distribution.png`, and `screenshots/github-repository.png`. Add images to this README with Markdown links, for example:
-```markdown
-![Confusion matrix](outputs/confusion_matrix.png)
-```
 
 ## Future improvements
 - Use a documented public dataset such as NSL-KDD or CICIDS
