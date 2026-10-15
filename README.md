@@ -75,11 +75,6 @@ python main.py
 - Compare Random Forest, Logistic Regression, and Isolation Forest
 - Add tests and model versioning
 
-## GitHub topics
-`cybersecurity`, `machine-learning`, `threat-detection`, `python`, `scikit-learn`, `network-security`, `beginner-project`
-
-## Author
-Student learning project — AI-Powered Cybersecurity Threat Detection System.
 
 Github: https://github.com/yaseenkhaleel16-tech/AI-Powered-Cybersecurity-Threat-Detection
 Linkedin:https://www.linkedin.com/in/yaseen-khaleel-6a535a432/
