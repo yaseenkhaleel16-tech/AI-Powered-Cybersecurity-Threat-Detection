@@ -80,3 +80,6 @@ python main.py
 
 ## Author
 Student learning project — AI-Powered Cybersecurity Threat Detection System.
+
+Github: https://github.com/yaseenkhaleel16-tech/AI-Powered-Cybersecurity-Threat-Detection
+Linkedin:https://www.linkedin.com/in/yaseen-khaleel-6a535a432/
